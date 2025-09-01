@@ -25,13 +25,13 @@ A stunning, web-based tool designed for individuals who want to create, customiz
 - **PDF export** using jsPDF
 - **Copy to clipboard** with one-click functionality
 - **Share across platforms** (LinkedIn, Twitter, WhatsApp, Email)
-- **Import/Export data** as JSON files
+- **Import/Export data** as JSON files (Initially commented)
 
 ### 🛠 Resource Hub
 - **Top free AI tools** directory categorized by type
 - **Tool ratings and descriptions**
 - **Direct links to AI platforms**
-- **Chrome extension CTA**
+
 
 ### 🔧 Advanced Features
 - **Search and filter** prompts by keyword, category, tone, or size
@@ -216,9 +216,7 @@ src/
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
