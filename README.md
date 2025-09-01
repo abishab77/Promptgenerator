@@ -50,7 +50,7 @@ A stunning, web-based tool designed for individuals who want to create, customiz
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/personal-prompt-generator.git
+   git clone https://github.com/yourusername/Promptgenerator.git
    cd personal-prompt-generator
    ```
 
