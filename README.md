@@ -2,7 +2,7 @@
 
 A stunning, web-based tool designed for individuals who want to create, customize, and manage AI prompts across multiple platforms (ChatGPT, Claude, Gemini, etc.).
 
-![Personal Prompt Generator](https://img.shields.io/badge/Version-1.0.0-purple) ![React](https://img.shields.io/badge/React-18.2.0-blue) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-38B2AC) ![License](https://img.shields.io/badge/License-MIT-green)
+![Personal Prompt Generator](https://img.shields.io/badge/Version-1.0.0-purple) ![React](https://img.shields.io/badge/React-18.2.0-blue) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.0-38B2AC) 
 
 ## ✨ Features
 
