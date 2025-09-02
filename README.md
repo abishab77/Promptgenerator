@@ -226,14 +226,6 @@ src/
 - **jsPDF** for PDF generation capabilities
 - **React Hot Toast** for elegant notifications
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/personal-prompt-generator/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/personal-prompt-generator/discussions)
-- **Email**: support@personalpromptgenerator.com
-
----
-
-**Made with ❤️ for the AI community**
 
 *Personal Prompt Generator - Empowering creativity through intelligent prompt management.*
